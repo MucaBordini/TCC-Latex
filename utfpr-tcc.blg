@@ -1,0 +1,41 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: utfpr-tcc.aux
+A level-1 auxiliary file: estrutura/pre-textuais/dedicatoria.aux
+A level-1 auxiliary file: estrutura/pre-textuais/agradecimentos.aux
+A level-1 auxiliary file: estrutura/pre-textuais/epigrafe.aux
+A level-1 auxiliary file: estrutura/pre-textuais/resumo.aux
+A level-1 auxiliary file: estrutura/pre-textuais/abstract.aux
+A level-1 auxiliary file: estrutura/pre-textuais/listas/listas-ilustracoes/lista-figuras.aux
+A level-1 auxiliary file: estrutura/pre-textuais/listas/listas-ilustracoes/lista-quadros.aux
+A level-1 auxiliary file: estrutura/pre-textuais/listas/lista-tabelas.aux
+A level-1 auxiliary file: estrutura/pre-textuais/listas/lista-siglas.aux
+A level-1 auxiliary file: estrutura/pre-textuais/listas/lista-simbolos.aux
+A level-1 auxiliary file: estrutura/pre-textuais/listas/listas-diversas/lista-algoritmos.aux
+A level-1 auxiliary file: estrutura/pre-textuais/sumario.aux
+A level-1 auxiliary file: estrutura/textuais/introducao.aux
+A level-1 auxiliary file: estrutura/textuais/desenvolvimento/revisao-de-literatura.aux
+A level-1 auxiliary file: estrutura/textuais/desenvolvimento/metodologia.aux
+A level-1 auxiliary file: estrutura/textuais/desenvolvimento/resultados.aux
+A level-1 auxiliary file: estrutura/textuais/desenvolvimento/orientacoes.aux
+A level-1 auxiliary file: estrutura/textuais/conclusao.aux
+A level-1 auxiliary file: estrutura/pos-textuais/referencias.aux
+The style file: abntex2-alf.bst
+A level-1 auxiliary file: estrutura/pos-textuais/apendices.aux
+A level-1 auxiliary file: estrutura/pos-textuais/anexos.aux
+Database file #1: abntex2-options.bib
+Database file #2: mybib.bib
+Warning--I didn't find a database entry for "Goossens2007"
+Warning--I didn't find a database entry for "IRL2014"
+Warning--I didn't find a database entry for "Mittelbach2004"
+Warning--I didn't find a database entry for "Barbosa2004"
+Warning--I didn't find a database entry for "Maturana2003"
+Warning--I didn't find a database entry for "Silva2000"
+Warning--I didn't find a database entry for "abnTeX22014d"
+Warning--I didn't find a database entry for "NBR6023:2002"
+Warning--I didn't find a database entry for "abnTeX22014b"
+Warning--I didn't find a database entry for "abnTeX22014c"
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+(There were 10 warnings)

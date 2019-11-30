@@ -1,0 +1,19 @@
+% Encoding: UTF-8
+
+@Book{Rabin2009,
+  title         = {Introduction to game development},
+  publisher     = {Nelson Education},
+  year          = {2009},
+  author        = {Rabin, Steve},
+  __markedentry = {[samue:6]},
+}
+
+@TechReport{NEWZOO18,
+  author      = {Newzoo},
+  title       = {2018 Insights Into Brazil's Game Market},
+  institution = {Newzoo},
+  year        = {2018},
+  url         = {https://newzoo.com/wp-content/uploads/2018/07/Infographic_Brazil.png},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
