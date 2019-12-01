@@ -5,10 +5,38 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Cruz, Ramos e Albuquerque 2012]{Cruz2012}
+\abntrefinfo{Cruz, Ramos e Albuquerque}{CRUZ; RAMOS; ALBUQUERQUE}{2012}
+{CRUZ, D.~M.; RAMOS, D.~K.; ALBUQUERQUE, R.~M. de. Jogos eletr{\^o}nicos e
+  aprendizagem: O que as crian{\c{c}}as e jovens t{\^e}m a dizer?
+\textbf{Revista Contrapontos}, v.~12, n.~1, p. 87--96, 2012.}
+
+\bibitem[Grübel 2006]{Joceline2006}
+\abntrefinfo{Grübel}{GRüBEL}{2006}
+{GRüBEL, J.~M. Jogos educativos.
+\textbf{Instituto de Ciências Exatas e Tecnológicas – Centro Universitário
+  Feevale}, 2006.}
+
+\bibitem[Medina, Melo e Palacios 2013]{Medina2013}
+\abntrefinfo{Medina, Melo e Palacios}{MEDINA; MELO; PALACIOS}{2013}
+{MEDINA, M.; MELO, G.; PALACIOS, M. La importancia del aprendizaje del idioma
+  ingl{\'e}s a temprana edad.
+\textbf{Revista Cient{\'\i}fica Yachana}, v.~2, n.~2, p. 191--195, 2013.}
+
 \bibitem[Newzoo 2018]{NEWZOO18}
 \abntrefinfo{Newzoo}{NEWZOO}{2018}
 {NEWZOO. \textbf{2018 Insights Into Brazil's Game Market}.
 [S.l.], 2018. Dispon{\'\i}vel em:
   \url{https://newzoo.com/wp-content/uploads/2018/07/Infographic\_Brazil.png}.}
+
+\bibitem[Rabin 2009]{Rabin2009}
+\abntrefinfo{Rabin}{RABIN}{2009}
+{RABIN, S. \textbf{Introduction to game development}. [S.l.]: Nelson Education,
+  2009.}
+
+\bibitem[Valente 1998]{Valente98}
+\abntrefinfo{Valente}{VALENTE}{1998}
+{VALENTE, J.~A. Diferentes usos do computador na educação.
+\textbf{PUCRS}, 1998.}
 
 \end{thebibliography}
